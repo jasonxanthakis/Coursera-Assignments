@@ -1,3 +1,9 @@
-# IBM-Data-Science
-Repository for all Coursera IBM courses, specialisation and professional certification assignments.
-- IBM *Tools for Data Science* Course Final Assignment: DataScienceEcosystem.ipynb
+# Coursera Assignments
+Repository to hold ongoing/completed assignments from Coursera courses, specialisations, projects and professional certificates.
+
+Assignments grouped by the course provider.
+
+Contents:
+- IBM
+    - Introduction to Data Science Specialisation (4 courses)
+- Google
